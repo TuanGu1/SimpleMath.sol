@@ -12,3 +12,4 @@ contract SimpleMath {
         return a - b;
     }
 }
+Refactor code for readability
