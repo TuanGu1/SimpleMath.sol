@@ -15,3 +15,4 @@ contract SimpleMath {
 Refactor code for readability
 Remove unused code
 Optimize gas usage
+Update comments and docs
