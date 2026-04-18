@@ -17,3 +17,4 @@ Remove unused code
 Optimize gas usage
 Update comments and docs
 Update function logic
+Refactor contract layout
